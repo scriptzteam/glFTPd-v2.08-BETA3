@@ -1,0 +1,11 @@
+!E+!e-------------------------------!E[ !D%[%-7.7s]a!E ]!e-------------------------------!E+!0
+!e|               - FILES -            - BYTES -          - AVG RATE -      !e|!0
+!e| !gALLTIME UP   !C%[%10d]If    %[%15.0f]IGMB    %[%15.0f]IUK/s      !e|!0
+!e| !gALLTIME DOWN !C%[%10d]Ii    %[%15.0f]IJMB    %[%15.0f]IDK/s      !e|!0
+!e| !gMONTH UP     !C%[%10d]Ia    %[%15.0f]IbMB    %[%15.0f]IQK/s      !e|!0
+!e| !gMONTH DOWN   !C%[%10d]In    %[%15.0f]IpMB    %[%15.0f]IvK/s      !e|!0
+!e| !gWEEK UP      !C%[%10d]Ig    %[%15.0f]IhMB    %[%15.0f]IqK/s      !e|!0
+!e| !gWEEK DOWN    !C%[%10d]II    %[%15.0f]IkMB    %[%15.0f]IVK/s      !e|!0
+!e| !gDAY UP       !C%[%10d]IA    %[%15.0f]IBMB    %[%15.0f]IsK/s      !e|!0
+!e| !gDAY DOWN     !C%[%10d]IN    %[%15.0f]IPMB    %[%15.0f]ISK/s      !e|!0
+!E+!e-------------------------------------------------------------------------!E+!0
